@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rodrigo 👋
 
-<!--
-**RodrigoMaffezza/RodrigoMaffezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Business Analyst focused on ERP, corporate systems, and project management.
 
-Here are some ideas to get you started:
+Passionate about automation, process optimization, system integration, and technology-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech stack:
+
+- Python
+- JavaScript
+- SQL
+- n8n
+- REST APIs
+- Power BI
+- Microsoft 365
+- ERP
+
+💡 Featured projects:
+
+- AI-powered Movidesk assistant developed using Python, n8n, and ChatGPT integration.
+- RPA solution built with JavaScript and Playwright to automate document retrieval from Gupy.
+
+Currently working on ERP projects, business process improvements, and the continuous evolution of corporate systems.
